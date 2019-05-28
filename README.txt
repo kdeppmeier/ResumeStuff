@@ -14,3 +14,6 @@ TheGame.py:
 
 mipsStuff.asm:
 	This is a simple file that demonstrates some basic MIPS functionality.
+
+PeriodicTable.zip (a WIP)
+	This is a periodic table made using C#, with WPF for the interface.
